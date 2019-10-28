@@ -1,8 +1,20 @@
 # Byte-compiled / optimized / DLL files
+*~
+.DS_Store
 __pycache__/
 *.py[cod]
 *$py.class
 data/profiles*
+*.zip
+checkpoints
+__MACOSX/
+
+activity-data
+notebooks/data/test.csv
+notebooks/data/test_null.csv
+notebooks/candy.csv
+*.cpp.cppimporthash
+*.cpp
 
 # C extensions
 *.so
